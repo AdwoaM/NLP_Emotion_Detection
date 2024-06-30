@@ -21,4 +21,4 @@ Labels: ( `anger`, `joy`, `fear` )
 * Emotion-aware applications
 * Customer feedback analysis
 * Social media sentiment monitoring
-* *hatbot and virtual assistant training
+* Chatbot and virtual assistant training
